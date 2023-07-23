@@ -6,3 +6,4 @@ The arbitrage model consists of three files, one for each operational strategy:
 2 refers to Strategy E0 (exports not allowed)
 
 The arbitrage model is also available in its MATLAB function form where the appropriate input is needed (battery/rectifier/inverter capacities).
+The function MATLAB files are indicated by 'MEGA' at the end of the filename
