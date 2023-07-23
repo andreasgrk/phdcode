@@ -7,4 +7,4 @@ The arbitrage model consists of three files, one for each operational strategy:
 
 The arbitrage model is also available in its MATLAB function form where the appropriate input is needed (battery/rectifier/inverter capacities).
 The function MATLAB files are indicated by 'MEGA' at the end of the filename and can be found in the 'FUNCTIONS' folder.
-NordPool's original wholesale electricity day-ahead prices (£/kWh) can be found in the relevant folder.
+NordPool's original wholesale electricity day-ahead prices (£/MWh) can be found in the folder 'Electricity RTP Data'.
