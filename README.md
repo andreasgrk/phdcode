@@ -5,4 +5,4 @@ The arbitrage model consists of three files, one for each operational strategy:
 1b refers to Strategy E5 (exports allowed only on working days)
 2 refers to Strategy E0 (exports not allowed)
 
-The arbitrage model is also avaialble in its MATLAB function form where the appropriate input is needed (battery/rectifier/inverter capacities).
+The arbitrage model is also available in its MATLAB function form where the appropriate input is needed (battery/rectifier/inverter capacities).
